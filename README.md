@@ -1,6 +1,6 @@
 # SocketClientObject
 maven:
-```maven
+```xml
   <repository>
     <id>SocketClientObject</id>
     <url>https://raw.githubusercontent.com/afhistos/SocketClientObject/mvn-repo/</url>
